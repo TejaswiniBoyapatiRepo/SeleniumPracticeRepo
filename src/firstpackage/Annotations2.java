@@ -11,7 +11,13 @@ public class Annotations2 {
 	@BeforeTest
 	public void launchBrowser()
 	{
-		System.out.println("Launch flipkart");
+		System.out.println("Launch flipkart website");
+		System.out.println("Launch flipkart website");
+		System.out.println("Launch flipkart website");
+		System.out.println("Launch flipkart website");
+		System.out.println("Launch flipkart website");
+		System.out.println("Launch flipkart website");
+		System.out.println("Launch flipkart website");
 	}
 
 	@BeforeMethod
