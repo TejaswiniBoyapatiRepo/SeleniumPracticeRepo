@@ -30,6 +30,7 @@ public class Annotations {
 		Assertion soft = new SoftAssert();
 		soft.assertEquals("test", "tet");
 		System.out.println("After the Soft assertion");
+		System.out.println("Individual branch creation");
 	}
 	@AfterTest
 	public void closeBrowser()
