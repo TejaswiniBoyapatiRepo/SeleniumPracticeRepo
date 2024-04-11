@@ -20,6 +20,8 @@ System.out.println("Method 1");
 	public void c() {
 		// TODO Auto-generated method stub
 		System.out.println("Method 3");
+		System.out.println("Method 3");
+		System.out.println("Method 3");
 	}
 
 	@Test(groups= {"functional"})
