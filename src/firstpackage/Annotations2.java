@@ -24,6 +24,7 @@ public class Annotations2 {
 	public void verifyHomePage() {
 		// TODO Auto-generated method stub
 		System.out.println("Verifying home page Title");
+		System.out.println("Verifying home page Title");
 	}
 
 	@Test
