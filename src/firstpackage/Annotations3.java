@@ -15,6 +15,7 @@ System.out.println("Method 1");
 	public void b() {
 		// TODO Auto-generated method stub
 		System.out.println("Method 2");
+		System.out.println("update from system 2");
 	}
 	@Test(groups= {"functional"})
 	public void c() {
