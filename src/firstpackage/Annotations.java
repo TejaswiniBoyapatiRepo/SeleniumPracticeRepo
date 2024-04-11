@@ -21,6 +21,7 @@ public class Annotations {
 		Assertion hard = new Assertion();
 		hard.assertEquals("test", "tet");
 		System.out.println("After the hard assertion");
+		System.out.println("git commit scenario");
 	}
 	@Test
 	public void subtraction()

@@ -9,6 +9,7 @@ public class Annotations3 {
 	public void a() {
 		// TODO Auto-generated method stub
 System.out.println("Method 1");
+System.out.println("Sample test scenario");
 	}
 
 	@Test(groups= {"smoke"})
