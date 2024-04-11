@@ -31,6 +31,7 @@ public class Annotations {
 		soft.assertEquals("test", "tet");
 		System.out.println("After the Soft assertion");
 		System.out.println("Individual branch creation");
+		System.out.println("Merge scenario from develop to master branch");
 	}
 	@AfterTest
 	public void closeBrowser()
